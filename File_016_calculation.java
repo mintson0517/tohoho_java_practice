@@ -1,4 +1,4 @@
-public class File_016 {
+public class File_016_calculation {
     public static void main(String args[]) {
         int rice = 20, noodle = 30;
         System.out.print("僕は今日ご飯を20個と麺を30個購入して個数が");
