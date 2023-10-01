@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class File_0015_hundred {
+public class File_015_hundred {
     public static void main(String args[]) {
         int num, hundred;
         System.out.print("整数を入力してください(※-2,147,483,648～2,147,483,647):");
