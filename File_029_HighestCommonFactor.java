@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class File_029 {
+public class File_029_HighestCommonFactor {
     public static void main(String args[]){
         int Num1,Num2,TmpNum;
         System.out.print("2つの整数の最大公因数を求めだします\n\n");

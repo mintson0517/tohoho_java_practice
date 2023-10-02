@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class File_028 {
+public class File_028_factor {
     public static void main(String args[]) {
         int a = 1, n;
         Scanner scanner = new Scanner(System.in);
